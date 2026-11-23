@@ -3,7 +3,6 @@
   "version": "1.0.0",
   "description": "Use this program if you want to check if a word is a Palindrome!",
   "main": "server.js",
-  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js"
@@ -19,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/JAEspino-dev/Utility_Palindrome_Checker_App/issues"
   },
-  "homepage": "https://github.com/JAEspino-dev/Utility_Palindrome_Checker_App#readme"
+  "homepage": "https://github.com/JAEspino-dev/Utility_Palindrome_Checker_App#readme",
+  "dependencies": {
+    "figlet": "^1.13.0"
+  }
 }
