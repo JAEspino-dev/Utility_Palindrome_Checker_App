@@ -2,7 +2,7 @@
 Use this program if you want to check if a word is a Palindrome!
 
 # Link
-[Check out the Site!](https://fullstack-name-app.onrender.com)
+[Check out the Site!](https://utility-palindrome-checker-app.onrender.com)
 
 # 📋 How to use
 1. Open the app in your browser   
